@@ -46,14 +46,6 @@
 
 ---
 
-## 📊 LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jenishsadatiya?theme=dark&font=Karma&ext=heatmap)
-
-> *(Replace `jenishsadatiya` with your actual LeetCode username)*
-
----
-
 ## 📈 GitHub Stats
 
 ![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishsadatiya&show_icons=true&theme=tokyonight&hide_border=true)
