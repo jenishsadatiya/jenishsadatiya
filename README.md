@@ -1,6 +1,6 @@
 # Hey, I'm Jenish Sadatiya 👋
 
-### BTech CSE @ VIT Bhopal | Cloud Computing & Automation | Aspiring Android Developer
+### BTech CSE | Cloud Computing & Automation | Aspiring Android Developer
 
 ---
 
@@ -46,13 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishsadatiya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenishsadatiya&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 
@@ -62,9 +55,6 @@
   </a>
   <a href="https://github.com/jenishsadatiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:jenish.sadatiya17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
