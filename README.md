@@ -1,13 +1,13 @@
 # Hey, I'm Jenish Sadatiya 👋
 
-### BTech CSE | Cloud Computing & Automation | Aspiring Android Developer
+### BTech CSE | Cloud Computing & Automation | Flutter Developer in Making
 
 ---
 
 - 🏗️ Currently mastering **Data Structures & Algorithms in C++**
-- 📱 Next stop: **Java → Android Development**
+- 📱 Building apps with **Flutter & Dart**
 - ☁️ Specializing in **Cloud Computing & Automation** at VIT Bhopal
-- 💡 Ask me about **C++, DSA, or cloud fundamentals**
+- 💡 Ask me about **C++, DSA, Flutter, or Cloud**
 - ⚡ Fun fact: I debug better at night
 
 ---
@@ -25,7 +25,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>C++
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50"/><br>Flutter
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/><br>Cloud Computing
@@ -36,16 +36,36 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/><br>C
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50"/><br>Android
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" height="50"/><br>Dart
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/><br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50"/><br>Android
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50"/><br>Firebase
     </td>
   </tr>
 </table>
 
 ---
 
+## 🚀 Currently Building
+
+```
+🎯 Learning Flutter & Dart — building real apps
+📊 DSA in C++ — daily LeetCode grind  
+☁️ Cloud Computing — VIT Bhopal specialization
+```
+
+---
 
 ## 🤝 Connect With Me
 
@@ -55,6 +75,9 @@
   </a>
   <a href="https://github.com/jenishsadatiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jenish.sadatiya17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
