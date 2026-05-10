@@ -5,7 +5,7 @@
 ---
 
 - 🏗️ Currently mastering **Data Structures & Algorithms in C++**
-- 📱 Building apps with **Flutter & Dart**
+- 📱 📱 Building cross-platform apps with **Flutter (Dart)**
 - ☁️ Specializing in **Cloud Computing & Automation** at VIT Bhopal
 - 💡 Ask me about **C++, DSA, Flutter, or Cloud**
 - ⚡ Fun fact: I debug better at night
@@ -62,7 +62,7 @@
 ```
 🎯 Learning Flutter & Dart — building real apps
 📊 DSA in C++ — daily LeetCode grind  
-☁️ Cloud Computing — VIT Bhopal specialization
+☁️ Cloud Computing
 ```
 
 ---
